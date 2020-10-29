@@ -3,7 +3,9 @@ fdsfsdfds
 fsd
 fsd
 f
+
 # ========================NEXUS==============================
+# ==========test Princi =================
 
 <distributionManagement>
 	<repository>
